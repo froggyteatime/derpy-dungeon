@@ -2,7 +2,7 @@ import { Game } from "phaser";
 import { Preloader } from "./scenes/preloader";
 
 export const SCENE = {
-    Preloader:"preloader",
+    preloader:"preloader",
     ui:"game-ui",
     GameOver:"game-over",
     level01:"level-01",
