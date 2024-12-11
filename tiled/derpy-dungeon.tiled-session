@@ -7,6 +7,7 @@
     "expandedProjectPaths": [
         "."
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "": {
             "scaleInDock": 1,
@@ -14,10 +15,10 @@
         },
         "level-01.tmx": {
             "scale": 2,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 210.5,
-                "y": 241.5
+                "x": 351.75,
+                "y": 146.75
             }
         },
         "level-01.tmx#floors": {
@@ -25,20 +26,27 @@
             "scaleInEditor": 1
         },
         "level-01.tmx#high walls": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level-01.tmx#low walls": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         }
     },
     "last.exportedFilePath": "/Users/willrichardson/Documents/Projects/derpy-dungeon/public/tilemaps",
-    "last.imagePath": "/home/wrichardson/Documents/dev/derpy-dungeon/public/tilemaps",
+    "last.imagePath": "/Users/willrichardson/Documents/Projects/derpy-dungeon/public/tilemaps",
     "map.height": 30,
     "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
     "map.lastUsedFormat": "tmx",
+    "map.orientation": "1",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
         "level-01.tmx"
     ],
     "project": "derpy-dungeon.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "level-01.tmx"
     ],
